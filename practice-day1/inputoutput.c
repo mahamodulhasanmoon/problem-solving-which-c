@@ -15,6 +15,7 @@ I wish you’ll shine in your life!	Good luck with all the barriers(/\) in your 
 
 
 int main(){
-printf("1");
+printf("Recently I heard that you’ve achieved 95%% marks in your exam.\n This is brilliant! \n");
+printf("I wish you’ll shine in your life! \t Good luck with all the barriers(/\\) in your life");
 };
 
