@@ -22,6 +22,8 @@ printf("Invalid Input\n");
     return 0;
 }
 
+
+
 if (val!= 0 && val % 2== 0)
 {
    printf("%d is an even Number",val);
