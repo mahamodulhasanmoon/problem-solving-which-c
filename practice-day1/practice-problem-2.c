@@ -23,8 +23,15 @@ int main(){
 int a, b;
 
 scanf("%d %d",&a, &b);
-  
+ int sum = a + b;
+ int subs = a - b;
+ int multiplication = a * b;
+ float division = a*1.0 /b;
+printf("%d + %d = %d \n",a,b,sum);
+printf("%d - %d = %d \n",a,b,subs);
+printf("%d * %d = %d \n",a,b,multiplication);
+printf("%d / %d = %0.2f \n",a,b,division);
 
-    printf("%d,%d",a,b);
+
     return 0;
 }
